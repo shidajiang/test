@@ -79,8 +79,5 @@ cv2.destroyAllWindows()
 ```
 
 ![&#x4FEE;&#x6539;&#x56FE;&#x7247;&#x591A;&#x4E2A;&#x50CF;&#x7D20;](../.gitbook/assets/xiu-gai-xiang-su.png)
-<video id="video" controls="" preload="none">
-  <source id="mp4" src="../.gitbook/assets/testvideo.mp4" type="video/mp4">
-</video>
 
 

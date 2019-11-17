@@ -6,5 +6,8 @@ description: 视频
 
 {% file src="../.gitbook/assets/testvideo.mp4" %}
 
-
+* 阈值
+* 融合
+* 边缘检测
+* 图像金字塔
 

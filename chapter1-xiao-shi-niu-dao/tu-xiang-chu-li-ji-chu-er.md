@@ -9,4 +9,4 @@
 * 图像滤波
 * canny检测
 * haohaohao
-
+<iframe height=498 width=510 src='http://player.youku.com/embed/XMzQ5MTMyMzQwMA==' frameborder=0 'allowfullscreen'></iframe>

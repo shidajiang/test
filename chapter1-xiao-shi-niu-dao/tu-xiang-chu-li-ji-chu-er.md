@@ -8,4 +8,5 @@
 * 均值化
 * 图像滤波
 * canny检测
+* haohaohao
 
